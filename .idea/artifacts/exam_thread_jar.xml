@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="exam-thread:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/exam_thread_jar</output-path>
+    <root id="archive" name="exam-thread.jar">
+      <element id="module-output" name="my-examples" />
+    </root>
+  </artifact>
+</component>
